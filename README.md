@@ -21,12 +21,14 @@ exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
 
-<img width="1912" height="1072" alt="Screenshot 2026-11-20 104111" src="https://github.com/user-attachments/assets/7ae14485-5634-4b8b-a023-d33f5e5eba72" />
+<img width="1048" height="298" alt="Screenshot 2026-11-20 104111" src="https://github.com/user-attachments/assets/22e2fef5-103a-4b18-858e-056aa7835ecb" />
+
 
 
 
 ## TestBench Program
-<img width="1912" height="971" alt="Screenshot 2026-11-20 104218" src="https://github.com/user-attachments/assets/ec40d4c1-939d-4cd9-8293-1544de41b586" />
+<img width="1087" height="881" alt="24" src="https://github.com/user-attachments/assets/c6964479-d79d-410d-ac00-d66c5cc3942f" />
+
 
 
 
@@ -88,7 +90,8 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
-<img width="1852" height="1021" alt="Screenshot 2026-11-20 101310" src="https://github.com/user-attachments/assets/a6433716-a14c-4fdf-bab6-9a222d981c5a" />
+<img width="1852" height="759" alt="Screenshot 2026-11-20 101310" src="https://github.com/user-attachments/assets/7de6a226-eee0-4574-b39e-882fa8697c2d" />
+
 
 
 Result
